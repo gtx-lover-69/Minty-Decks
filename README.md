@@ -8,7 +8,7 @@ The V2 or Pro aimed to solve that problem AND added more features like an RGB LE
 I was so proud of myself for the V1 that immediately upon finishing the PCB, I ordered it via JLCPCB. What a mistake.
 
 # Some renders
-P.S. You can experience it for yourself in 3D (here)[https://3dviewer.net/#model=https://github.com/gtx-lover-69/Minty-Decks/blob/main/minty_deck/minty_deck.step,https://github.com/gtx-lover-69/Minty-Decks/blob/main/minty_deck/minty_deck_2/minty_deck_2.step]
+P.S. You can experience it for yourself in 3D [here](https://3dviewer.net/#model=https://github.com/gtx-lover-69/Minty-Decks/blob/main/minty_deck/minty_deck.step,https://github.com/gtx-lover-69/Minty-Decks/blob/main/minty_deck/minty_deck_2/minty_deck_2.step)
 Before
 <img width="1036" height="704" alt="V1" src="https://github.com/user-attachments/assets/04e9f8ba-3d78-4d89-b496-0f6a948e09be" />
 After
